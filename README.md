@@ -1,4 +1,5 @@
-Welcome to my Shell Scripting repository! This repository contains a collection of shell scripts that I've written to automate tasks, practice shell scripting concepts, and solve various problems.
+Welcome to my Shell Scripting repository! 
+This repository contains a collection of shell scripts that I've written to automate tasks, practice shell scripting concepts, and solve various problems.
 
 Contents
 01-while-with-file.sh: A script demonstrating the use of a while loop with file handling.
